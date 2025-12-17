@@ -1,0 +1,35 @@
+* {
+    color: #333333 !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+    text-shadow: none !important;
+}
+
+body {
+    color: #333333 !important;
+    background: #f5f7fa !important;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.98) !important;
+    color: #333333 !important;
+    backdrop-filter: none !important;
+    opacity: 1 !important;
+}
+
+.card p, .card h2, .card h3, .card h4 {
+    color: inherit !important;
+    opacity: 1 !important;
+}
+
+.header h1, .header p {
+    color: #ffffff !important;
+}
+
+.nav a {
+    color: #0d6efd !important;
+}
+
+.nav a:hover, .nav a.active {
+    color: #ffffff !important;
+}
